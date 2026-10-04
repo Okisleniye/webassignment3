@@ -3,7 +3,6 @@
 Name: Fariddin
 Group: 4
 
-## Part 1. Media Queries
 
 ### Task 0. Responsive Typography
 
@@ -21,9 +20,8 @@ Make a page with three boxes. Desktop: three in a row. Tablet: two in a row. Mob
 
 Files: task1.html, task1.css
 <img width="1914" height="1035" alt="image" src="https://github.com/user-attachments/assets/0afc2934-cc06-4636-b2fa-eaf773472b29" />
+<img width="576" height="1280" alt="photo_5339287980302083996_y" src="https://github.com/user-attachments/assets/2902f6b4-bdb8-46ee-9f15-4755f5c7a6d8" />
 
-
-## Part 2. Bootstrap Grid System
 
 ### Task 2. Bootstrap Responsive Columns
 
@@ -31,6 +29,7 @@ Make a layout with three columns using the 12-column grid. Desktop: 4 columns ea
 
 File: task2.html
 <img width="1912" height="1029" alt="image" src="https://github.com/user-attachments/assets/0a756194-7fdf-4f4e-9932-e19b307cff5b" />
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/b63eab0b-c5f4-4602-95df-bfc1c79578af" />
 
 
 ### Task 3. Bootstrap Navigation Bar
@@ -39,15 +38,17 @@ Make a responsive navbar with a logo on the left, links on the right and a hambu
 
 File: task3.html
 <img width="1919" height="948" alt="image" src="https://github.com/user-attachments/assets/6ff83e4e-0e99-4b53-9907-357663e3054e" />
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/f0cad1fb-2431-4be2-ac5e-9346bbe47ef4" />
 
 
-## Part 3. Combined Project
 
 ### Task 4. Responsive Portfolio Page
 
 Make a portfolio page with Bootstrap grid and media queries: header with navbar, projects on the left as cards, sidebar with info and contacts on the right, footer at the bottom. Custom media queries change font sizes, spacing and hide some elements on mobile.
 
 Files: task4.html, task4.css
+<img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/d2790256-7f0f-4284-96c6-4fff7c554a60" />
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/c7f65853-ea4d-4235-8c4e-a09706fa967f" />
 
 
 
